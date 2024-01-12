@@ -1,6 +1,8 @@
 # react-native-segemted-switcher
 
 ![npm version](https://img.shields.io/npm/v/react-native-segmented-switcher.svg)
+![license](https://img.shields.io/npm/l/react-native-segmented-switcher.svg)
+![npm](https://www.npmjs.com/package/react-native-segmented-switcher)
 
 The SegmentedSwitch package is a versatile React Native component designed to simplify the creation of stylish, highly customizable tabbed selectors. This component offers an elegant, interactive user interface for switching between different contents associated with each tab.
 
@@ -110,7 +112,14 @@ You can customize the switchButtonStyle, touchableStyle, and textTouchableStyle.
 
 ## An overview
 Bellow, this two example of using Segmented Switcher package
-## Using with Text
-![Texte alternatif](https://github.com/Mohamed-78/react-native-segmented-switcher/blob/main/screen_1.png)
-## Using with another content
-![Texte alternatif](https://github.com/Mohamed-78/react-native-segmented-switcher/blob/main/screen_2.png)
+<div style="display:flex;justify-content:space-around;align-items:center;">
+  <div>
+    <h3>Using with Text</h3>
+    <img src="https://github.com/Mohamed-78/react-native-segmented-switcher/blob/main/screen_1.png" alt="Texte alternatif">
+  </div>
+
+  <div>
+    <h3>Using with another content</h3>
+    <img src="https://github.com/Mohamed-78/react-native-segmented-switcher/blob/main/screen_2.png" alt="Texte alternatif">
+  </div>
+</div>
