@@ -1,6 +1,6 @@
 {
     "name": "react-native-segmented-switcher",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "The SegmentedSwitch package is a versatile React Native component designed to simplify the creation of stylish, highly customizable tabbed selectors. This component offers an elegant, interactive user interface for switching between different contents associated with each tab.",
     "main": "index.jsx",
     "scripts": {

@@ -23,7 +23,7 @@ Using the SegmentedSwitch package, developers can enhance the user experience by
 ## Installation
 
 ```bash
-npm install npm i segmented-switch
+npm i react-native-segmented-switcher
 ```
 
 ## Usage
@@ -109,5 +109,7 @@ You can customize the switchButtonStyle, touchableStyle, and textTouchableStyle.
 
 ## An overview
 Bellow, this two example of using Segmented Switcher package
+# Using with Text
 ![Texte alternatif](https://github.com/Mohamed-78/react-native-segmented-switcher/blob/main/screen_1.png)
+# Using with another content
 ![Texte alternatif](https://github.com/Mohamed-78/react-native-segmented-switcher/blob/main/screen_2.png)
