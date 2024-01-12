@@ -1,0 +1,35 @@
+{
+    "name": "react-native-segmented-switcher",
+    "version": "1.0.0",
+    "description": "The SegmentedSwitch package is a versatile React Native component designed to simplify the creation of stylish, highly customizable tabbed selectors. This component offers an elegant, interactive user interface for switching between different contents associated with each tab.",
+    "main": "index.jsx",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Mohamed-78/react-native-segmented-switcher"
+    },
+    "keywords": [
+      "react-native",
+      "react-native-segmented-switcher",
+      "react-native-segmented-switcher",
+      "segmented-control",
+      "react-native-segmented-control",
+      "package segmented-control react native",
+      "package react-native-segmented-switcher",
+      "package react-native-segmented-switcher",
+      "package react-native"
+    ],
+    
+    "author": "Irié Mohamed",
+    "license": "MIT",
+    "peerDependencies": {
+      "react": "^16.8.0",
+      "react-native": "^0.60.0"
+    },
+    "dependencies": {
+        "react": "18.2.0",
+        "react-native": "0.72.6"
+    }
+}
